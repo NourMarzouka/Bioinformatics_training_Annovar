@@ -1,0 +1,8 @@
+##fileformat=VCFv4.2
+##source=training_example
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+chr1	879317	.	G	A	.	PASS	.
+chr1	942451	.	C	T	.	PASS	.
+chr1	1152569	.	A	G	.	PASS	.
+chr2	17330	.	T	C	.	PASS	.
+chr2	32145	.	G	A	.	PASS	.
